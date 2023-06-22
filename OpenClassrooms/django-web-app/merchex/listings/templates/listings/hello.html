@@ -1,0 +1,8 @@
+# listings/templates/listings/hello.html
+
+<p>Mes groupes préférés sont :</p>
+<ul>
+    {% for band in bands %}
+    <li>{{ band.name }}</li>
+    {% endfor %}
+</ul>
