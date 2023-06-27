@@ -54,5 +54,23 @@ https://www.youtube.com/watch?v=rHux0gMZ3Eg
 - Travail sur la page "Bar"
 
 21/06/2023
-- Travail sur la page d'accueil (Nos partenaires...)
-- Création d'un carousel sur la page "Bar"
+- Travail sur la page d'accueil, en particulier le header qui pose problème au niveau de l'affichage (+ Nos partenaires...)
+- Recherche création d'un carousel sur la page "Bar" 
+- Debug de GitHub, problème de commit / push sur le projet commun coventGardenStudios
+
+22/06/2023
+- Migration du début différentes pages (accueil, studios et bar) sur le projet commun
+- Réalisation du caroussel
+- Création de la page contact
+
+26/06/2023
+- Modification de la taille de l'affichage des différents partenaires (accueil) et suppression de l'ancien partenaire La Ruche
+- Modification de la page Bar avec emplacement prédéfini pour une image réelle du bar et modification de la taille du caroussel
+- Retouche de la page Contact ->Reste à définir avec monsieur Papazoglou l'agencement idéale car pas incroyable selon les différents avis
+- Intégration de Google Maps dans la page Contact
+
+-> Page accueil, bar, contact terminé
+
+27/06/2023
+- Ajout des hyperliens Google Maps sur chaque adresse
+- Focus sur la page actualité avec étude de l'API FB et autres...
