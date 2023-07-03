@@ -73,4 +73,15 @@ https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
 27/06/2023
 - Ajout des hyperliens Google Maps sur chaque adresse
-- Focus sur la page actualité avec étude de l'API FB et autres...
+- Focus sur la page actualité avec étude de l'API FB et autres solutions...
+
+28/06/2023
+- Recherche sur l'API FB et potentiels solutions : Intégration du fil d'actu de FB à la page Actualités + ajout de l'API Behold pour les 6 derniers posts Instagram
+- Ajout des hyperliens Google Maps au footer + page contact
+- Ajout du slider pour les marques dans la page Studios
+- Modification du slider page bar pour un affichage plus horizontal et agréable
+
+29/06/2023
+- Modification des pages Contact (google maps) + Home pour le responsive 
+- Modification page Actualités HTML + CSS pour rendre la page responsive et modification des couleurs
+
